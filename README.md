@@ -1,6 +1,6 @@
 # nacl_charged
 
-![nacl_charged](box.png)
+![nacl_charged](box.png =250x250)
 
 The zip file contains essential files to run metadynamics simulations of NaCl nucleation from aqueous solutions near charged surfaces.
 
